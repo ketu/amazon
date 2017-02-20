@@ -1,0 +1,14 @@
+{
+    "name": "veda/amazon",
+    "description": "simple php client for Amazon MWS",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ketu.lai",
+            "email": "ketu.lai@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
